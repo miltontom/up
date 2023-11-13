@@ -8,7 +8,7 @@ Open powershell and execute,
 ```powershell
 notepad $PROFILE
 ```
-A pop-up might click `Yes`.
+A pop-up might appear, click `Yes`.
 In this script file add the following command,
 
 ```powershell
