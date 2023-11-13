@@ -9,7 +9,7 @@ Open powershell and execute,
 notepad $PROFILE
 ```
 A pop-up might appear, click `Yes`.
-In this script file add the following command,
+In the script file add the following command,
 
 ```powershell
 Set-Alias -Name up -Value C:\Users\John\up\up.ps1
