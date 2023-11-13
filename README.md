@@ -8,9 +8,7 @@ Open powershell and execute,
 ```powershell
 notepad $PROFILE
 ```
-A pop-up might
-appear saying the file doesn't exist and asks if you want to create one,
-click `Yes`.
+A pop-up might click `Yes`.
 In this script file add the following command,
 
 ```powershell
