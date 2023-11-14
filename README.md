@@ -21,12 +21,13 @@ Save the file, `Exit` from powershell and reopen it to use the script, or from t
 . $PROFILE
 ```
 # Usage
-```powershell
 ## Without arguments
+```powershell
 C:\Users\John\Downloads> up
 C:\Users\John>
-
+```
 ## With arguments
+```powershell
 C:\Users\John\Downloads\Pictures> up 4
 C:\>
 ```
