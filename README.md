@@ -28,6 +28,6 @@ C:\Users\John>
 ```
 ## Example 2
 ```powershell
-C:\Users\John\Downloads\Pictures> up 4
-C:\>
+C:\Users\John\Downloads\Pictures> up 3
+C:\Users>
 ```
