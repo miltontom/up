@@ -12,6 +12,5 @@ if (!$isInteger -or !$isInRange) {
 }
 
 for ($i = 1; $i -le $limit; $i++) {
-    # Go back one level in the hierarchy (cd ..)
     Set-Location ..
 }
