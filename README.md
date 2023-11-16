@@ -1,9 +1,12 @@
-# Description
-A powershell script that takes you up __N__ directories in the hierarchy, a faster way to move up the hierarchy rather than repeatedly doing `cd ..`
+# Up
+A better alternative for repetitive `cd ..`
+
+## Description
+A powershell script that takes you up __N__ directories in the hierarchy. 
 
 Inspired from this awesome [StackOverflow](https://stackoverflow.com/a/245724) answer.
 
-#  Setup
+## Setup
 Open powershell and execute,
 ```powershell
 notepad $PROFILE
@@ -20,13 +23,13 @@ Save the file, `Exit` from powershell and reopen it to use the script, or from t
 ```powershell
 . $PROFILE
 ```
-# Usage
-## Example 1
+## Usage
+### Example 1
 ```powershell
 C:\Users\John\Downloads> up
 C:\Users\John>
 ```
-## Example 2
+### Example 2
 ```powershell
 C:\Users\John\Downloads\Pictures> up 3
 C:\Users>
