@@ -7,7 +7,8 @@ $isLevelInteger = ($level -is [Int32])
 $isLevelInRange = ($level -lt $levelCount)
 
 if (!$isLevelInteger -or !$isLevelInRange -or $args.Count -gt 1) {
-    Write-Host "Usage: up <valid level>"
+    Write-Host "Usage: up <level>`n"
+    Write-Host "NOTE: <level> should be a valid level in the hierarchy"
     Exit
 }
 
