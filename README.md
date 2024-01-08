@@ -24,12 +24,12 @@ Save the file, `Exit` from powershell and reopen it to use the script, or from t
 . $PROFILE
 ```
 ## Usage
-### Example 1
+#### Example 1
 ```powershell
 C:\Users\John\Downloads> up
 C:\Users\John>
 ```
-### Example 2
+#### Example 2
 ```powershell
 C:\Users\John\Downloads\Pictures> up 3
 C:\Users>
