@@ -19,7 +19,7 @@ Set-Alias -Name up -Value C:\Users\John\up\up.ps1
 ```
 __NOTE:__ *The path to the* `up.ps1` *script file you saved should be mentioned*.
 
-Save the file, `Exit` from powershell and reopen it to use the script, or from the current session execute,
+Save the file, `Exit` from powershell and reopen it to use the script or from the current session execute,
 ```powershell
 . $PROFILE
 ```
