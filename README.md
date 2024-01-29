@@ -1,6 +1,8 @@
 # Up
 A better alternative for repetitive `cd ..`
 
+![](demo.gif)
+
 ## Description
 A powershell script that takes you up __N__ directories in the hierarchy. 
 
